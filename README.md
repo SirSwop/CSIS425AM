@@ -1,4 +1,4 @@
 CSIS425AM
 =========
 
-Group project for CSIS 425
+I'm still learning to handle this GitHub stuff.
